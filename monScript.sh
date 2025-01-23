@@ -1,4 +1,3 @@
 #!/bin/bash
 
-echo "ceci est mon premier script enregistré dans Git"
-
+echo "ceci est mon premier script dans Git"
